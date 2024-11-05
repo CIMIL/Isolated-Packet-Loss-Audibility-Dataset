@@ -1,2 +1,6 @@
 # Isolated-Packet-Loss-Audibility-Dataset
-Dataset of labeled audio clips that represent the audibility of an isolated packet loss
+This repository contains a labeled dataset for isolated packet losses in musical audio.
+
+This is a landing page. To reach the dataset, chose the branch of interest:
+
+- phd-thesis: contains the results presented in Luca Vignati's PhD thesis called "Real-Time and High Quality Musical Audio Streaming Over IP".
